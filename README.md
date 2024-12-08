@@ -1,18 +1,18 @@
-# DecisionTrees_Ensemble_Methods</br>
-GBM from Scratch - 
-Random Forest from Scratch - 
-Adaboost - 
-Decision Tree - 
-GBM Classifier -
-Gradient Boost Regression - 
-Gradient Boost Ranking - 
+# DecisionTrees_Ensemble_Methods<br/>
+GBM from Scratch - <br/>
+Random Forest from Scratch - <br/>
+Adaboost - <br/>
+Decision Tree - <br/>
+GBM Classifier - <br/>
+Gradient Boost Regression - <br/> 
+Gradient Boost Ranking - <br/>
 
-Youtube links:
+Youtube links: <br/>
 
-GBM from Scratch - 
-Random Forest from Scratch - 
-Adaboost - 
-Decision Tree - 
-GBM Classifier -
-Gradient Boost Regression - 
-Gradient Boost Ranking - 
+GBM from Scratch - <br/>
+Random Forest from Scratch - <br/> 
+Adaboost - <br/>
+Decision Tree - <br/>
+GBM Classifier - <br/>
+Gradient Boost Regression - <br/> 
+Gradient Boost Ranking - <br/>
