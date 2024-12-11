@@ -7,12 +7,4 @@ GBM Classifier - <br/>https://colab.research.google.com/drive/1AqOZIRrMp2L5j0tdu
 Gradient Boost Regression - <br/>https://colab.research.google.com/drive/1wu1uObf6hwF3ws1VW4AQKQHuFnWWDt3H#scrollTo=H7dLXzm4sgxA<br/> 
 Gradient Boost Ranking - <br/>https://colab.research.google.com/drive/1UrObMb7swCVkbEQjAatmwLH_vu9Utc9S?authuser=0#scrollTo=lruBrPkFtpPr<br/>
 
-Youtube links: <br/>
 
-GBM from Scratch - <br/>
-Random Forest from Scratch - <br/> 
-Adaboost - <br/>
-Decision Tree - <br/>
-GBM Classifier - <br/>
-Gradient Boost Regression - <br/> 
-Gradient Boost Ranking - <br/>
